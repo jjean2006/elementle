@@ -1,2 +1,2 @@
 # elementle
-Wordle witha chemical twist
+Wordle with a chemical twist
